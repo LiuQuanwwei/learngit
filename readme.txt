@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick.
 Creating a old branch is quick.
 Creating a book is very good.
+Life is good.
